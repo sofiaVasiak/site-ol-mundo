@@ -1,0 +1,37 @@
+
+body {
+    font-family:arial, sans-serif ;
+    background-color: #396d6a;
+    margin: 0;
+    padding: 0;
+align-items: center;
+justify-content: center;
+}
+
+    h1{
+        color: #ffff;
+        text-align: center;
+        padding: 20px;
+        border-bottom: 0px solid #ddd;
+
+    }
+
+    h2{
+        color: orange;
+        text-align: center;
+    }
+
+    p{
+        text-align: center;
+        font-size: 16px;
+        line-height: 1.5;
+        margin: 20px;
+        color: #ffff;
+    }
+
+
+    img{
+        display: block;
+        margin: 0 auto;
+        text-align: center;
+    }
